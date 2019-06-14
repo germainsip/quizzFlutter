@@ -1,6 +1,8 @@
-# quizz2
+# quizzFlutter
 
-A new Flutter project.
+Un petit projet en Flutter. 
+Ce projet est destiné à évoluer et adopter plus de connectivité.
+Il est basé sur un tutoriel de """
 
 ## Getting Started
 
